@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T19:07:23Z",
+  "updated": "2026-11-10T21:46:16Z",
   "source": "rasso.paris",
   "events": [
     {
@@ -39,9 +39,9 @@
       "address": "1 Rue Jean-Baptiste Clément, 95570 Bouffémont",
       "lat": 49.0426,
       "lng": 2.3195,
-      "desc": "Rassemblement mensuel de véhicules anciens, tous les 3e dimanches du mois. Date déduite de cette règle : à vérifier.",
-      "confirmed": false,
-      "seen": "2026-11-09",
+      "desc": "Rassemblement mensuel de véhicules anciens, tous les 3e dimanches du mois. Confirmé par l'affiche du club relayée par @rasso.paris.",
+      "confirmed": true,
+      "seen": "2026-11-10",
       "via": "story",
       "src": "@rasso.paris",
       "link": "https://www.instagram.com/rasso.paris/"
@@ -88,9 +88,9 @@
       "start": "09:30",
       "end": "12:00",
       "place": "Base de loisirs de Seine École, Saint-Fargeau-Ponthierry (77)",
-      "desc": "Véhicules de collection ou de prestige, entrée libre et ouvert à tous, tous les 3e dimanches du mois. Date déduite de cette règle : à vérifier.",
-      "confirmed": false,
-      "seen": "2026-11-09",
+      "desc": "Véhicules de collection ou de prestige, entrée libre et ouvert à tous, tous les 3e dimanches du mois. Confirmé par l'affiche relayée par @rasso.paris.",
+      "confirmed": true,
+      "seen": "2026-11-10",
       "via": "story",
       "src": "@rasso.paris",
       "link": "https://www.instagram.com/rasso.paris/"
@@ -121,7 +121,7 @@
       "place": "Saint-Thibault-des-Vignes (77)",
       "desc": "Club Auto Passion : anciennes, youngtimers, prestige et américaines, tous les 3e dimanches du mois. Heure et lieu exact non précisés : vérifie sur leur page Facebook « Les vieilles soupapes 77 ».",
       "confirmed": false,
-      "seen": "2026-11-09",
+      "seen": "2026-11-10",
       "via": "story",
       "src": "@rasso.paris",
       "link": "https://www.instagram.com/rasso.paris/"
@@ -176,6 +176,52 @@
       "src": "carsandfriends.fr",
       "link": "https://carsandfriends.fr/rassemblements/triel-auto-retro-rassemblement/",
       "confirmed": false
+    },
+    {
+      "id": "vieux-pneus-bouffemont-2026-12-20",
+      "title": "Les Vieux Pneus de Cent Noix · véhicules anciens",
+      "kind": "rasso",
+      "date": "2026-12-20",
+      "start": "09:00",
+      "end": "12:30",
+      "place": "Parking du Centre culturel, Bouffémont (95)",
+      "address": "1 Rue Jean-Baptiste Clément, 95570 Bouffémont",
+      "lat": 49.0426,
+      "lng": 2.3195,
+      "desc": "Rassemblement mensuel de véhicules anciens, tous les 3e dimanches du mois. Décembre n'est pas cité sur l'affiche : à vérifier.",
+      "confirmed": false,
+      "seen": "2026-11-10",
+      "via": "story",
+      "src": "@rasso.paris",
+      "link": "https://www.instagram.com/rasso.paris/"
+    },
+    {
+      "id": "seine-ecole-2026-12-20",
+      "title": "Rassemblement mensuel de véhicules anciens · Seine École",
+      "kind": "rasso",
+      "date": "2026-12-20",
+      "start": "09:30",
+      "end": "12:00",
+      "place": "Base de loisirs de Seine École, Saint-Fargeau-Ponthierry (77)",
+      "desc": "Véhicules de collection ou de prestige, entrée libre et ouvert à tous, tous les 3e dimanches du mois. Décembre n'est pas cité sur l'affiche : à vérifier.",
+      "confirmed": false,
+      "seen": "2026-11-10",
+      "via": "story",
+      "src": "@rasso.paris",
+      "link": "https://www.instagram.com/rasso.paris/"
+    },
+    {
+      "id": "vieilles-soupapes-2026-12-20",
+      "title": "Les Vieilles Soupapes 77 · rassemblement mensuel",
+      "kind": "rasso",
+      "date": "2026-12-20",
+      "place": "Saint-Thibault-des-Vignes (77)",
+      "desc": "Club Auto Passion : anciennes, youngtimers, prestige et américaines, tous les 3e dimanches du mois. Heure et lieu exact non précisés : vérifie sur leur page Facebook « Les vieilles soupapes 77 ».",
+      "confirmed": false,
+      "seen": "2026-11-10",
+      "via": "story",
+      "src": "@rasso.paris",
+      "link": "https://www.instagram.com/rasso.paris/"
     }
   ],
   "recurring": [
