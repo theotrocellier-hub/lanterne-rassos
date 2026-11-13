@@ -1,7 +1,21 @@
 {
- "updated": "2026-11-12T06:25:33Z",
+ "updated": "2026-11-13T09:02:34Z",
  "source": "rasso.paris",
  "events": [
+  {
+   "id": "eull-rasso-static-2026-11-13",
+   "title": "Rasso Static · Eull Crew",
+   "kind": "rasso",
+   "date": "2026-11-13",
+   "start": "22:30",
+   "place": "Île-de-France · adresse annoncée vendredi à 12h par @eull_crew",
+   "desc": "Rasso static de nuit co-organisé avec Anarchy, RealPunch93 et Mange la MGL. Concours de machine de frappe : 500 € à gagner au-dessus de 903, 50 € pour le meilleur score de la soirée. Adresse dévoilée le jour même à 12h sur l'Instagram d'eull_crew.",
+   "seen": "2026-11-13",
+   "via": "story",
+   "src": "@eull_crew",
+   "link": "https://www.instagram.com/eull_crew/",
+   "confirmed": false
+  },
   {
    "id": "yba-15-2026-11-14",
    "title": "Yvelines Balades Automobile · Édition 15",
@@ -14,6 +28,19 @@
    "seen": "2026-11-08",
    "via": "story",
    "src": "@rasso.paris"
+  },
+  {
+   "id": "vieilles-soupapes-2026-11-15",
+   "title": "Les Vieilles Soupapes 77 · rassemblement mensuel",
+   "kind": "rasso",
+   "date": "2026-11-15",
+   "place": "Saint-Thibault-des-Vignes (77)",
+   "desc": "Club Auto Passion : anciennes, youngtimers, prestige et américaines, tous les 3e dimanches du mois. Heure et lieu exact non précisés : vérifie sur leur page Facebook « Les vieilles soupapes 77 ».",
+   "confirmed": false,
+   "seen": "2026-11-10",
+   "via": "story",
+   "src": "@rasso.paris",
+   "link": "https://www.instagram.com/rasso.paris/"
   },
   {
    "id": "yba-16-2026-11-15",
@@ -114,19 +141,6 @@
    "link": "https://www.instagram.com/rasso.paris/"
   },
   {
-   "id": "vieilles-soupapes-2026-11-15",
-   "title": "Les Vieilles Soupapes 77 · rassemblement mensuel",
-   "kind": "rasso",
-   "date": "2026-11-15",
-   "place": "Saint-Thibault-des-Vignes (77)",
-   "desc": "Club Auto Passion : anciennes, youngtimers, prestige et américaines, tous les 3e dimanches du mois. Heure et lieu exact non précisés : vérifie sur leur page Facebook « Les vieilles soupapes 77 ».",
-   "confirmed": false,
-   "seen": "2026-11-10",
-   "via": "story",
-   "src": "@rasso.paris",
-   "link": "https://www.instagram.com/rasso.paris/"
-  },
-  {
    "id": "quelli-auteuil-2026-11-22",
    "title": "Quelli di Auteuil",
    "kind": "rasso",
@@ -179,6 +193,19 @@
    "confirmed": false
   },
   {
+   "id": "vieilles-soupapes-2026-12-20",
+   "title": "Les Vieilles Soupapes 77 · rassemblement mensuel",
+   "kind": "rasso",
+   "date": "2026-12-20",
+   "place": "Saint-Thibault-des-Vignes (77)",
+   "desc": "Club Auto Passion : anciennes, youngtimers, prestige et américaines, tous les 3e dimanches du mois. Heure et lieu exact non précisés : vérifie sur leur page Facebook « Les vieilles soupapes 77 ».",
+   "confirmed": false,
+   "seen": "2026-11-10",
+   "via": "story",
+   "src": "@rasso.paris",
+   "link": "https://www.instagram.com/rasso.paris/"
+  },
+  {
    "id": "vieux-pneus-bouffemont-2026-12-20",
    "title": "Les Vieux Pneus de Cent Noix · véhicules anciens",
    "kind": "rasso",
@@ -205,19 +232,6 @@
    "end": "12:00",
    "place": "Base de loisirs de Seine École, Saint-Fargeau-Ponthierry (77)",
    "desc": "Véhicules de collection ou de prestige, entrée libre et ouvert à tous, tous les 3e dimanches du mois. Décembre n'est pas cité sur l'affiche : à vérifier.",
-   "confirmed": false,
-   "seen": "2026-11-10",
-   "via": "story",
-   "src": "@rasso.paris",
-   "link": "https://www.instagram.com/rasso.paris/"
-  },
-  {
-   "id": "vieilles-soupapes-2026-12-20",
-   "title": "Les Vieilles Soupapes 77 · rassemblement mensuel",
-   "kind": "rasso",
-   "date": "2026-12-20",
-   "place": "Saint-Thibault-des-Vignes (77)",
-   "desc": "Club Auto Passion : anciennes, youngtimers, prestige et américaines, tous les 3e dimanches du mois. Heure et lieu exact non précisés : vérifie sur leur page Facebook « Les vieilles soupapes 77 ».",
    "confirmed": false,
    "seen": "2026-11-10",
    "via": "story",
