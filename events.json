@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T09:02:34Z",
+ "updated": "2026-11-16T16:32:06Z",
  "source": "rasso.paris",
  "events": [
   {
@@ -191,6 +191,22 @@
    "src": "carsandfriends.fr",
    "link": "https://carsandfriends.fr/rassemblements/triel-auto-retro-rassemblement/",
    "confirmed": false
+  },
+  {
+   "id": "phaeton-workshop-2026-12-06",
+   "title": "Phaeton Workshop · Le dernier rasso de l'année",
+   "kind": "rasso",
+   "date": "2026-12-06",
+   "start": "10:00",
+   "end": "16:00",
+   "place": "Phaeton Workshop, Trappes (78)",
+   "address": "3 avenue Le Verrier, 78190 Trappes",
+   "desc": "Dernier rassemblement de l'année chez Phaeton Workshop : belles mécaniques, café, bière et traiteur (tartiflette). Les véhicules sont filtrés à l'entrée.",
+   "seen": "2026-11-16",
+   "via": "post",
+   "src": "@phaeton_workshop",
+   "link": "https://www.instagram.com/p/DfZ9ZyGNiwP/",
+   "confirmed": true
   },
   {
    "id": "vieilles-soupapes-2026-12-20",
