@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T19:09:40Z",
+ "updated": "2026-11-19T19:19:30Z",
  "source": "rasso.paris",
  "events": [
   {
@@ -147,12 +147,42 @@
    "date": "2026-11-20",
    "start": "22:30",
    "place": "Parking Rose d'O'Parinor, Aulnay-sous-Bois (93)",
-   "desc": "Rasso statique de nuit organisé par RDC-IDF, Forza Paris et Crew Industry, avec drift et run d'après l'affiche. Pas de burn, sono autorisée.",
-   "seen": "2026-11-18",
+   "desc": "Rasso statique de nuit organisé par RDC-IDF, Forza Paris et Crew Industry. Pas de burn, sono autorisée. Drift vers 00h30 : l'adresse drift est communiquée via le groupe adresses de RDC-IDF (lien en bio Instagram).",
+   "seen": "2026-11-19",
    "via": "story",
    "src": "@rdc_idf",
    "link": "https://www.instagram.com/rdc_idf/",
    "confirmed": true
+  },
+  {
+   "id": "vip-rich-villeneuve-le-comte-2026-11-21",
+   "title": "Festival VIP.RICH · Adamagiss",
+   "kind": "autre",
+   "date": "2026-11-21",
+   "start": "15:00",
+   "end": "04:00",
+   "place": "Manoir de l'Obélisque, Villeneuve-le-Comte (77)",
+   "desc": "Événement privé sur invitation : rassemblement auto, concours et trophée, vernissage, défilé de mode, showcase et ambiance musicale.",
+   "seen": "2026-11-18",
+   "via": "story",
+   "src": "@rasso.paris",
+   "link": "https://www.instagram.com/rasso.paris/",
+   "confirmed": true
+  },
+  {
+   "id": "isle-adam-anciennes-2026-11-22",
+   "title": "L'Isle-Adam en Anciennes · rendez-vous mensuel",
+   "kind": "rasso",
+   "date": "2026-11-22",
+   "start": "09:30",
+   "end": "12:30",
+   "place": "Parking Carrefour Le Grand Val, L'Isle-Adam (95)",
+   "desc": "Rendez-vous mensuel de véhicules anciens organisé par L'Isle-Adam en Anciennes, le 4e dimanche du mois. Date déduite de la règle.",
+   "seen": "2026-11-18",
+   "via": "story",
+   "src": "@rasso.paris",
+   "link": "https://www.instagram.com/rasso.paris/",
+   "confirmed": false
   },
   {
    "id": "quelli-auteuil-2026-11-22",
@@ -165,12 +195,42 @@
    "address": "Hippodrome d'Auteuil, 75016 Paris",
    "lat": 48.8536,
    "lng": 2.2562,
-   "desc": "Voitures anciennes, youngtimers et instant classics. Pas besoin d'inscription : viens avec une voiture, viens avec un ami.",
+   "desc": "Voitures anciennes, youngtimers et instant classics (jusqu'à 2010), supercars et GT à partir de 2011. Versions sportives de série et tuning refusés. Pas besoin d'inscription. Accès par la route d'Auteuil aux Lacs (côté porte d'Auteuil). Pas de course ni d'accélérations dans les rues voisines.",
    "confirmed": true,
-   "seen": "2026-10-25",
+   "seen": "2026-11-19",
    "via": "post",
    "link": "https://www.instagram.com/p/De7HMxbtJbk/",
    "src": "@quellidiauteuil"
+  },
+  {
+   "id": "us-cars-77-coulommiers-2026-11-22",
+   "title": "US Cars 77 · 22e rassemblement",
+   "kind": "rasso",
+   "date": "2026-11-22",
+   "start": "11:00",
+   "end": "17:00",
+   "place": "Oncle Scott's, Coulommiers (77)",
+   "address": "Rue des Longs Sillons, Coulommiers",
+   "desc": "American Vehicles Convention : 22e rassemblement de voitures américaines chez Oncle Scott's (saloon & grill), restauration possible sur place.",
+   "seen": "2026-11-18",
+   "via": "story",
+   "src": "@rasso.paris",
+   "link": "https://www.instagram.com/rasso.paris/",
+   "confirmed": true
+  },
+  {
+   "id": "closed-circle-2026-12-05",
+   "title": "Closed Circle · Private Christmas Edition",
+   "kind": "rasso",
+   "date": "2026-12-05",
+   "start": "20:00",
+   "place": "Lieu non communiqué · static privé sur sélection",
+   "desc": "Soirée static privée sur sélection de véhicules, sono autorisée, places limitées. Par NLE Crew avec Gwadacaps, Vandom IDF, NSNR Family, Midnight Motion, North Slow Club, Flow Performance et Night Shadow.",
+   "seen": "2026-11-18",
+   "via": "post",
+   "src": "@newlastera",
+   "link": "https://www.instagram.com/p/Df5LGwbAlzf/",
+   "confirmed": false
   },
   {
    "id": "vincennes-anciennes-2026-12-06",
@@ -223,6 +283,19 @@
    "confirmed": true
   },
   {
+   "id": "xmas-meet-forza-paris-2026-12-19",
+   "title": "Xmas Meet · Forza Paris × Vatos Street",
+   "kind": "meet",
+   "date": "2026-12-19",
+   "place": "Lieu et heure à venir · annoncés par @forza_paris_",
+   "desc": "Rassemblement spécial Noël organisé par Forza Paris et Vatos Street. Lieu et horaire pas encore communiqués.",
+   "seen": "2026-11-17",
+   "via": "post",
+   "src": "@forza_paris_",
+   "link": "https://www.instagram.com/p/Df2SX1-BLLM/",
+   "confirmed": false
+  },
+  {
    "id": "vieilles-soupapes-2026-12-20",
    "title": "Les Vieilles Soupapes 77 · rassemblement mensuel",
    "kind": "rasso",
@@ -267,6 +340,21 @@
    "via": "story",
    "src": "@rasso.paris",
    "link": "https://www.instagram.com/rasso.paris/"
+  },
+  {
+   "id": "isle-adam-anciennes-2026-12-27",
+   "title": "L'Isle-Adam en Anciennes · rendez-vous mensuel",
+   "kind": "rasso",
+   "date": "2026-12-27",
+   "start": "09:30",
+   "end": "12:30",
+   "place": "Parking Carrefour Le Grand Val, L'Isle-Adam (95)",
+   "desc": "Rendez-vous mensuel de véhicules anciens organisé par L'Isle-Adam en Anciennes, le 4e dimanche du mois. Date déduite de la règle, à vérifier pour la période des fêtes.",
+   "seen": "2026-11-18",
+   "via": "story",
+   "src": "@rasso.paris",
+   "link": "https://www.instagram.com/rasso.paris/",
+   "confirmed": false
   }
  ],
  "recurring": [
