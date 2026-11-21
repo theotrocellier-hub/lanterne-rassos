@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T19:19:30Z",
+ "updated": "2026-11-21T19:15:41Z",
  "source": "rasso.paris",
  "events": [
   {
@@ -170,6 +170,37 @@
    "confirmed": true
   },
   {
+   "id": "eull-rasso-rosny2-2026-11-21",
+   "title": "Rassemblement auto · Eull Crew à Rosny 2",
+   "kind": "rasso",
+   "date": "2026-11-21",
+   "start": "22:30",
+   "place": "Rosny 2, entre le Burger King et le McDonald's",
+   "address": "Avenue du Général de Gaulle, 93110 Rosny-sous-Bois",
+   "lat": 48.8853,
+   "lng": 2.4739,
+   "desc": "Rasso static uniquement, avec Mange la MGL. Sono autorisée. Pas de rupteur, pas de burn, pas d'accélération, pas de deuxième adresse. Respect des forces de l'ordre et des lieux (déchets à la poubelle).",
+   "seen": "2026-11-21",
+   "via": "story",
+   "src": "@eull_crew",
+   "link": "https://www.instagram.com/eull_crew/",
+   "confirmed": true
+  },
+  {
+   "id": "rasso-surprise-parinor-2026-11-21",
+   "title": "Rasso surprise · Team Rasso 60 × Forza Paris",
+   "kind": "rasso",
+   "date": "2026-11-21",
+   "start": "22:30",
+   "place": "Centre commercial Parinor, Aulnay-sous-Bois (93)",
+   "desc": "Rasso surprise organisé par Team Rasso 60 et Forza Paris au centre commercial Parinor. Pas de rupteur, pas de burn.",
+   "seen": "2026-11-21",
+   "via": "story",
+   "src": "@forza_paris_",
+   "link": "https://www.instagram.com/forza_paris_/",
+   "confirmed": true
+  },
+  {
    "id": "isle-adam-anciennes-2026-11-22",
    "title": "L'Isle-Adam en Anciennes · rendez-vous mensuel",
    "kind": "rasso",
@@ -186,7 +217,7 @@
   },
   {
    "id": "quelli-auteuil-2026-11-22",
-   "title": "Quelli di Auteuil",
+   "title": "ANNULÉ · Quelli di Auteuil",
    "kind": "rasso",
    "date": "2026-11-22",
    "start": "10:30",
@@ -195,11 +226,11 @@
    "address": "Hippodrome d'Auteuil, 75016 Paris",
    "lat": 48.8536,
    "lng": 2.2562,
-   "desc": "Voitures anciennes, youngtimers et instant classics (jusqu'à 2010), supercars et GT à partir de 2011. Versions sportives de série et tuning refusés. Pas besoin d'inscription. Accès par la route d'Auteuil aux Lacs (côté porte d'Auteuil). Pas de course ni d'accélérations dans les rues voisines.",
+   "desc": "ANNULÉ à cause de la météo annoncée pour dimanche (story de @quellidiauteuil du 20/11) : une nouvelle date sera communiquée bientôt. Voitures anciennes, youngtimers et instant classics (jusqu'à 2010), supercars et GT à partir de 2011. Versions sportives de série et tuning refusés. Pas besoin d'inscription. Accès par la route d'Auteuil aux Lacs (côté porte d'Auteuil). Pas de course ni d'accélérations dans les rues voisines.",
    "confirmed": true,
-   "seen": "2026-11-19",
-   "via": "post",
-   "link": "https://www.instagram.com/p/De7HMxbtJbk/",
+   "seen": "2026-11-20",
+   "via": "story",
+   "link": "https://www.instagram.com/quellidiauteuil/",
    "src": "@quellidiauteuil"
   },
   {
