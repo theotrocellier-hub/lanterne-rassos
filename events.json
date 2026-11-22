@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T19:15:41Z",
+ "updated": "2026-11-22T19:05:03Z",
  "source": "rasso.paris",
  "events": [
   {
@@ -250,6 +250,22 @@
    "confirmed": true
   },
   {
+   "id": "evamm-maisons-laffitte-2026-11-29",
+   "title": "EVAMM · rassemblement mensuel de véhicules anciens",
+   "kind": "rasso",
+   "date": "2026-11-29",
+   "start": "09:30",
+   "end": "12:30",
+   "place": "Parking de l'hippodrome, Maisons-Laffitte (78)",
+   "address": "1 Avenue de la Pelouse, 78600 Maisons-Laffitte",
+   "desc": "Rendez-vous gratuit des Écuries de voitures anciennes de Maisons-Laffitte et Mesnil-le-Roi, le dernier dimanche du mois. Autos et motos de plus de 30 ans (avant 1992). Date déduite de la règle, à vérifier auprès du club.",
+   "seen": "2026-11-22",
+   "via": "web",
+   "src": "sortiraparis.com",
+   "link": "https://www.sortiraparis.com/en/what-to-visit-in-paris/walks/articles/325177-maisons-laffitte-78-a-free-gathering-of-classic-cars-once-a-month",
+   "confirmed": false
+  },
+  {
    "id": "closed-circle-2026-12-05",
    "title": "Closed Circle · Private Christmas Edition",
    "kind": "rasso",
@@ -385,6 +401,22 @@
    "via": "story",
    "src": "@rasso.paris",
    "link": "https://www.instagram.com/rasso.paris/",
+   "confirmed": false
+  },
+  {
+   "id": "evamm-maisons-laffitte-2026-12-27",
+   "title": "EVAMM · rassemblement mensuel de véhicules anciens",
+   "kind": "rasso",
+   "date": "2026-12-27",
+   "start": "09:30",
+   "end": "12:30",
+   "place": "Parking de l'hippodrome, Maisons-Laffitte (78)",
+   "address": "1 Avenue de la Pelouse, 78600 Maisons-Laffitte",
+   "desc": "Rendez-vous gratuit des Écuries de voitures anciennes de Maisons-Laffitte et Mesnil-le-Roi, le dernier dimanche du mois. Autos et motos de plus de 30 ans (avant 1992). Date déduite de la règle, à vérifier pour la période des fêtes.",
+   "seen": "2026-11-22",
+   "via": "web",
+   "src": "sortiraparis.com",
+   "link": "https://www.sortiraparis.com/en/what-to-visit-in-paris/walks/articles/325177-maisons-laffitte-78-a-free-gathering-of-classic-cars-once-a-month",
    "confirmed": false
   }
  ],
