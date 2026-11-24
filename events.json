@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:05:03Z",
+ "updated": "2026-11-24T19:55:36Z",
  "source": "rasso.paris",
  "events": [
   {
@@ -417,6 +417,22 @@
    "via": "web",
    "src": "sortiraparis.com",
    "link": "https://www.sortiraparis.com/en/what-to-visit-in-paris/walks/articles/325177-maisons-laffitte-78-a-free-gathering-of-classic-cars-once-a-month",
+   "confirmed": false
+  },
+  {
+   "id": "triel-auto-retro-2027-01-03",
+   "title": "Triel Auto Rétro",
+   "kind": "rasso",
+   "date": "2027-01-03",
+   "start": "09:30",
+   "end": "12:30",
+   "place": "Parking Foch, Triel-sur-Seine",
+   "address": "Parking Foch, quai Auguste Roy, 78510 Triel-sur-Seine",
+   "desc": "Rassemblement mensuel d'autos et motos de plus de 30 ans sur les quais, café offert, entrée libre. Le 1er dimanche du mois : date déduite de la règle, à confirmer.",
+   "seen": "2026-11-24",
+   "via": "web",
+   "src": "carsandfriends.fr",
+   "link": "https://carsandfriends.fr/rassemblements/triel-auto-retro-rassemblement/",
    "confirmed": false
   }
  ],
